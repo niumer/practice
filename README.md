@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 图片压缩工具
 
 这是一个简单易用的在线图片压缩工具，采用苹果风格设计，帮助用户快速压缩图片文件大小。
@@ -47,3 +48,7 @@
 - Safari
 - Firefox
 - Edge 
+=======
+# practice
+project used to practice
+>>>>>>> 0f72ed21f48a8b47fa448b917ca4dd9354eb2710
